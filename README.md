@@ -25,7 +25,7 @@ Develop a C language program that allows a teacher to enter students' grades for
 - Allows the user to sort grades in **ascending** or **descending** order.
 - Sorting is based on the entered values.
 
-### ⚠ Error Handling
+###  Error Handling
 - Handles input errors with appropriate error messages.
 - Prompts the user to re-enter incorrect values.
 
@@ -39,7 +39,7 @@ Develop a C language program that allows a teacher to enter students' grades for
 
 ---
 
-## 🛠 Technical Constraints
+##  Technical Constraints
 
 - The program must be written in **C** language.
 - Use **pointers** to pass two-dimensional arrays to functions.
